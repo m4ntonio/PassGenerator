@@ -10,14 +10,6 @@ As senhas podem ser copiadas para a área de transferência e também são salva
 
 ---
 
-## 📸 Screenshot
-
-<p align="center">
-  <img src="screenshot.png" alt="Interface do Gerador de Senhas" width="500"/>
-</p>
-
----
-
 ## 🚀 Funcionalidades
 - Gerar senhas seguras com:
   - Apenas **Letras** (maiúsculas e minúsculas)
@@ -73,8 +65,7 @@ Copie ou utilize a senha como desejar
 📖 Sobre
 
 Gerador de Senhas v1.2
-Criado por m4ntonio
- – 2025 😎
+Criado por m4ntonio – 2025 😎
 Desenvolvido com Python e Tkinter
 
 ⚖️ Licença
