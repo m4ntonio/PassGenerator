@@ -2,8 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/) 
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Contribuições](https://img.shields.io/badge/Contribuições-Bem--vindas-orange.svg)](../../issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contribuições](https://img.shields.io/badge/Contribuições-Bem--vindas-orange.svg)](https://github.com/m4ntonio/PassGenerator/issues)
 
 Um aplicativo em **Python + Tkinter** para gerar senhas seguras de forma prática.  
 As senhas podem ser copiadas para a área de transferência e também são salvas automaticamente em um arquivo de histórico (`senhas_geradas.txt`).
