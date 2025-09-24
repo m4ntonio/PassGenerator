@@ -35,16 +35,20 @@ Para testar:
 python -m tkinter
 ```
 
-📦 Como executar
+##📦 Como executar
 
 Clone este repositório ou baixe os arquivos:
 
+```
 git clone https://github.com/seu-usuario/gerador-senhas.git
 cd gerador-senhas
+```
 
 Execute o programa:
 
+```
 python pass.py
+```
 
 A interface gráfica será aberta:
 
@@ -55,21 +59,21 @@ Clique em Gerar Nova Senha
 Copie ou utilize a senha como desejar
 
 
-📂 Estrutura do Projeto
+##📂 Estrutura do Projeto
 
+```
 📦 gerador-senhas
  ┣ 📜 gerador_senhas.py      # Código principal do aplicativo
  ┣ 📜 senhas_geradas.txt     # Arquivo onde as senhas são salvas
  ┗ 📜 README.md              # Documentação do projeto
+```
 
-
-📖 Sobre
+##📖 Sobre
 
 Gerador de Senhas v1.2
 Criado por m4ntonio – 2025 😎
 Desenvolvido com Python e Tkinter
 
-⚖️ Licença
+##⚖️ Licença
 
-Distribuído sob a licença MIT. Veja o arquivo LICENSE
- para mais detalhes.
+Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
