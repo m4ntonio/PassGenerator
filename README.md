@@ -31,7 +31,7 @@ As senhas podem ser copiadas para a área de transferência e também são salva
 Verifique se o Tkinter está instalado (vem por padrão na maioria das instalações do Python).  
 Para testar:
 
-```bash
+```
 python -m tkinter
 ```
 
