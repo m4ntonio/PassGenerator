@@ -33,6 +33,7 @@ Para testar:
 
 ```bash
 python -m tkinter
+```
 
 📦 Como executar
 
